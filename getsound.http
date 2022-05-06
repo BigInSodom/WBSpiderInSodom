@@ -1,0 +1,6 @@
+GET http://127.0.0.1:5000/result?id=9b545fd4-75b2-11ec-bc4d-ccd9acea2585
+
+# Content-Type: application/json
+# {
+# 	"text":"请输入的文字"
+# }

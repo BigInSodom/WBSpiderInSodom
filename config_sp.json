@@ -1,0 +1,15 @@
+{
+    "user_id_list": "account_sp.txt",
+    "filter": 1,
+    "since_date": "2000-01-01",
+    "write_mode": ["json"],
+    "original_pic_download": 1,
+    "retweet_pic_download": 0,
+    "original_video_download": 1,
+    "retweet_video_download": 0,
+    "download_comment":1,
+    "remove_html_tag": 1,
+    "start_page": 1,
+    "comment_max_download_count":100,
+    "result_dir_name": 0
+}

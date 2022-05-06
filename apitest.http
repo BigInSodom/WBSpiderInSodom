@@ -1,0 +1,7 @@
+POST http://127.0.0.1:5000/task
+
+Content-Type: application/json
+{
+
+	"text":"请输入的文字"
+}
